@@ -5,7 +5,7 @@
       "name": "Concepto",
       "type": "Template",
       "command": true,
-      "templatePath": "CE1116/08_Templates/Atomic Template.md",
+      "templatePath": "CE1116/00_Inbox/Atomic Template.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE:NoteTitle}}"
